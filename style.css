@@ -1,0 +1,24 @@
+.container{
+  width: 600px;
+  display: flex;
+  justify-content: center;
+ 
+}
+
+#score{
+    width: 200px;
+    background-color: rgb(42, 11, 219);
+    padding: 10px 20px;
+    font-size:30px;
+    color:#fff;
+    font-style:bold;
+    margin:20px auto
+    
+  }
+  .item{
+    font-size: 30px;
+    background-color: rgb(42, 11, 219);
+    padding: 20px 30px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+  }
